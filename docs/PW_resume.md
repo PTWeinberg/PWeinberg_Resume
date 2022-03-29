@@ -29,14 +29,11 @@ WORK EXPERIENCE
 ### Internships
 
 `November 2021 - Now`
-__Pathway Worldwide__, Richland, Salt Lake City
+__Pathway Worldwide__, Utah, Salt Lake City
 
 - using microsoft tools to create chatbots adn create analytics to improve different parts of pathwway.
 - researched and implemented research to solve problems.
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
