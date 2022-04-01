@@ -26,13 +26,28 @@ __Madison Memorial Hospital – Excel and Power BI__
 •	Created multiple visuals as well as options for the user to change their dashboard
 WORK EXPERIENCE
 
-### Internships
+### Work Experience
 
 `November 2021 - Now`
-__Pathway Worldwide__, Utah, Salt Lake City
+__Pathway Worldwide__, Salt Lake City, Utah (Remote)
 
-- using microsoft tools to create chatbots adn create analytics to improve different parts of pathwway.
-- researched and implemented research to solve problems.
+- using microsoft tools to create chatbots and create analytics to improve different parts of pathwway including customer service and student retention.
+- researched microsoft tools inlcuding Power VA, Power Automate, and Azure blob and implemented research to help construct a vustomer service chatbot.
+- Experience pulling data from CRM and sharepoint
+
+'September 2020 - December 2020'
+__Brigham Young University-Idaho__ Rexburg, Idaho
+•	 Lead a group of students to clean, sanitize, and maintain a 52,000 square foot building
+•	Optimized cleaning and sanitization to help protect students from Covid-19
+•	Adhered to a rotation of detailed cleaning assignments.
+•	Encouraged coworkers daily to enhance work ethic and create a better work environment
+	
+ 
+### ADDITIONAL SKILLS
+•	Instructing in various subjects in both German and English
+•	Interpersonal skills developed from working in a wide variety of workspaces
+•	Problem solving with creative solutions
+•	Technical skills in Excel that range from creating spreadsheets and organizing/interpreting data.
 
 
 
